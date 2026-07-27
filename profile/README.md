@@ -1,12 +1,9 @@
+![NestCode.pro](nestcode-banner.png)
+
 ## Hi there 👋
 
-<!--
+**NestCode.pro** — something cool is coming.
 
-**Here are some ideas to get you started:**
+🚧 We're setting things up — stay tuned.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+📬 hello@nestcode.pro
